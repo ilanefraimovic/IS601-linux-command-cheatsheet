@@ -19,3 +19,5 @@ ls is  a command that lists files and directories in the current location. It ca
 cd is a command that changes the current working directory to another folder. For example, cd Documents takes you into the Documents folder.
 
 pwd is a command that prints the full path of your current directory. It’s useful when you’re lost in the file system and need to know where you are.
+
+touch is a command that command creates a new empty file if one doesn’t already exist. It’s often used to quickly set up a placeholder file
