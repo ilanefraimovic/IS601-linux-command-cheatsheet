@@ -21,3 +21,5 @@ cd is a command that changes the current working directory to another folder. Fo
 pwd is a command that prints the full path of your current directory. It’s useful when you’re lost in the file system and need to know where you are.
 
 touch is a command that command creates a new empty file if one doesn’t already exist. It’s often used to quickly set up a placeholder file
+
+cp is a command that copies files or directories from one location to another. For example, cp file.txt backup.txt makes a duplicate of a file.
