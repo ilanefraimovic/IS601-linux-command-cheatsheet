@@ -17,3 +17,5 @@ git pull is a command that fetches and merges changes from a remote repository i
 ls is  a command that lists files and directories in the current location. It can be customized with options like -l for detailed information or -a to include hidden files.
 
 cd is a command that changes the current working directory to another folder. For example, cd Documents takes you into the Documents folder.
+
+pwd is a command that prints the full path of your current directory. It’s useful when you’re lost in the file system and need to know where you are.
