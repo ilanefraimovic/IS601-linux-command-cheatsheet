@@ -5,3 +5,5 @@ Git Clone is a command that is used to clone a remote git repository onto a loca
 git init is a command that initializes a new Git repository in your current directory. It sets up all the necessary files and folders so you can start tracking changes to your project.
 
 git commit is a command that permanently records the staged changes in the repository with a message describing the update. The -m flag lets you include a short summary of what was done. 
+
+git push is a command that uploads your commits from the local repository to a remote repository, such as GitHub. This is how you share your work with others or back it up online.
