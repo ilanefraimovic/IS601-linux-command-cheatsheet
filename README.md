@@ -23,3 +23,6 @@ pwd is a command that prints the full path of your current directory. It’s use
 touch is a command that command creates a new empty file if one doesn’t already exist. It’s often used to quickly set up a placeholder file
 
 cp is a command that copies files or directories from one location to another. For example, cp file.txt backup.txt makes a duplicate of a file.
+
+
+mv is a command that The mv command is used to move or rename files and directories. For instance, mv old.txt new.txt renames a file.
