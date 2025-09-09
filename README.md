@@ -26,3 +26,5 @@ cp is a command that copies files or directories from one location to another. F
 
 
 mv is a command that The mv command is used to move or rename files and directories. For instance, mv old.txt new.txt renames a file.
+
+rm is a command that deletes files from the system, and it doesn’t send them to a recycle bin—it removes them permanently. Adding the -r option lets you delete directories and their contents.
