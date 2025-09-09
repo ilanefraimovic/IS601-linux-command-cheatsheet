@@ -10,3 +10,8 @@ git push is a command that uploads your commits from the local repository to a r
 
 
 git pull is a command that fetches and merges changes from a remote repository into your current branch. It helps keep your local code up to date with the latest changes from collaborators.
+
+
+ls is  a command that lists files and directories in the current location. It can be customized with options like -l for detailed information or -a to include hidden files.
+
+
