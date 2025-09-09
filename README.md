@@ -31,3 +31,6 @@ rm is a command that deletes files from the system, and it doesn’t send them t
 
 
 mkdir is a command that creates a new directory with the name you specify. For example, mkdir Projects makes a new folder called Projects.
+
+
+man is a command that displays the manual page for another command, showing its usage, options, and examples. It’s one of the best ways to learn Linux commands directly from the terminal.
